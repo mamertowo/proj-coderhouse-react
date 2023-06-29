@@ -1,0 +1,12 @@
+.cartContainer {
+    position: relative;
+    color: black;
+}
+
+.cartAmount {
+    position: absolute;
+    top: 41%;
+    left: 41%;
+    transform: translate(-50%, -50%);
+    font-weight: bold;
+}
