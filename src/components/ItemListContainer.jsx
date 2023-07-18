@@ -1,15 +1,20 @@
-import {Item} from './Item'
-import './itemListContainer.css'
+import {ItemList} from './ItemList';
+import {usePiedras} from '../hooks/usePiedras';
+import {useParams} from 'react-router-dom';
 
 export const ItemListContainer = ({nombre}) => {
+    const {piedras, loading} = usePiedras(); //Custom hook
+    const {id} = useParams();
+    console.log(id);
     return (
         <div>
-            <h2>{nombre}</h2>
-            <ul className="listaItems">
-                <Item nombre="Piedra Cool" cantidad={23} descripcion="Una piedra bastante cool"/>
-                <Item nombre="Piedra Desagradable" cantidad={99} descripcion="No deberias comprar esta piedra"/>
-                <Item nombre="Piedra Masiva" cantidad={2} descripcion="Esta piedra es demasiado grande"/>
-            </ul>
+            {
+                loading
+                    ? <h2>Cargando...</h2>
+                    : id
+                        ? <ItemList nombre={nombre} productos={piedras.filter(p => p.categorias.includes(id))}/>
+                        : <ItemList nombre={nombre} productos={piedras}/>
+            }
         </div>
     );
 }
