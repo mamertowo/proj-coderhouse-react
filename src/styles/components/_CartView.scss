@@ -1,0 +1,21 @@
+.cartItemImg {
+    margin-right: 50px;
+    img {
+        max-height: 200px;
+    }
+}
+
+.cartItemDesc {
+    font-size: 1.25em;
+    @media (min-width: 576px) {
+        font-size: 2em;
+    }
+}
+
+.cartControl {
+    font-size: 2em;
+    margin-top: 20px;
+    button {
+        margin-right: 20px;
+    }
+}

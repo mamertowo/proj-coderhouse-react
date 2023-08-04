@@ -1,0 +1,336 @@
+[
+    {
+     "nombre": "Desagradable",
+     "precio": 10000,
+     "stock": 992,
+     "categorias": [
+      "cara",
+      "danina",
+      "chica"
+     ],
+     "img": "https://cdn.discordapp.com/attachments/1119092949880414299/1119092983497769011/normal.png",
+     "id": "1"
+    },
+    {
+     "nombre": "Cool",
+     "precio": 232323,
+     "stock": 23,
+     "categorias": [
+      "cara",
+      "agradable",
+      "grande"
+     ],
+     "img": "https://cdn.discordapp.com/attachments/1119092949880414299/1119094143814209546/cool.png",
+     "id": "2"
+    },
+    {
+     "nombre": "Normal",
+     "precio": 100,
+     "stock": 96,
+     "categorias": [
+      "barata",
+      "descargable"
+     ],
+     "img": "https://cdn.discordapp.com/attachments/1119092949880414299/1119092983497769011/normal.png",
+     "id": "3"
+    },
+    {
+     "nombre": "Rara",
+     "precio": 300,
+     "stock": 998,
+     "categorias": [
+      "barata",
+      "agradable"
+     ],
+     "img": "https://cdn.discordapp.com/attachments/1119092949880414299/1119095105123520552/rara.png",
+     "id": "4"
+    },
+    {
+     "nombre": "Roja",
+     "precio": 700,
+     "stock": 255,
+     "categorias": [
+      "colorida",
+      "grande"
+     ],
+     "img": "https://cdn.discordapp.com/attachments/1119092949880414299/1119096424727052399/roja.png",
+     "id": "5"
+    },
+    {
+     "nombre": "Azul",
+     "precio": 700,
+     "stock": 147,
+     "categorias": [
+      "colorida",
+      "chica"
+     ],
+     "img": "https://cdn.discordapp.com/attachments/1119092949880414299/1119097281845674024/azul.png",
+     "id": "6"
+    },
+    {
+     "nombre": "Verde",
+     "precio": 700,
+     "stock": 20,
+     "categorias": [
+      "colorida",
+      "descargable"
+     ],
+     "img": "https://cdn.discordapp.com/attachments/1119092949880414299/1119096821554368542/verde.png",
+     "id": "7"
+    },
+    {
+     "nombre": "Arcana",
+     "precio": 5000,
+     "stock": 5,
+     "categorias": [
+      "cara",
+      "eterea"
+     ],
+     "img": "https://cdn.discordapp.com/attachments/1119092949880414299/1119098179846152212/arcana.png",
+     "id": "8"
+    },
+    {
+     "nombre": "Electrica",
+     "precio": 2000,
+     "stock": 54,
+     "categorias": [
+      "danina",
+      "chica"
+     ],
+     "img": "https://cdn.discordapp.com/attachments/1119092949880414299/1119099794820972634/electrica.png",
+     "id": "9"
+    },
+    {
+     "nombre": "Hiperbolica",
+     "precio": 12321,
+     "stock": 3,
+     "categorias": [
+      "cara",
+      "cuatridimensional",
+      "agradable"
+     ],
+     "img": "https://cdn.discordapp.com/attachments/1119092949880414299/1119101241532891279/hiperbolica.png",
+     "id": "10"
+    },
+    {
+     "nombre": "Violenta",
+     "precio": 450,
+     "stock": 9,
+     "categorias": [
+      "barata",
+      "danina",
+      "grande"
+     ],
+     "img": "https://cdn.discordapp.com/attachments/1119092949880414299/1119101661244293150/violenta.png",
+     "id": "11"
+    },
+    {
+     "nombre": "Extrana",
+     "precio": 1001,
+     "stock": 1,
+     "categorias": [],
+     "img": "https://cdn.discordapp.com/attachments/1119092949880414299/1119102213118234644/extrana.png",
+     "id": "12"
+    },
+    {
+     "nombre": "Psiquica",
+     "precio": 3000,
+     "stock": 91,
+     "categorias": [
+      "cara",
+      "controlremoto",
+      "chica"
+     ],
+     "img": "https://cdn.discordapp.com/attachments/1119092949880414299/1119102911792820294/psiquica.png",
+     "id": "13"
+    },
+    {
+     "nombre": "Perdida",
+     "precio": 4815162342,
+     "stock": 1,
+     "categorias": [
+      "cara",
+      "danina",
+      "eterea"
+     ],
+     "img": "https://cdn.discordapp.com/attachments/1119092949880414299/1119104612264329236/perdida.png",
+     "id": "14"
+    },
+    {
+     "nombre": "Jugable",
+     "precio": 200,
+     "stock": 53,
+     "categorias": [
+      "barata",
+      "agradable",
+      "descargable",
+      "chica"
+     ],
+     "img": "https://cdn.discordapp.com/attachments/1119092949880414299/1119105461979979868/jugable.png",
+     "id": "15"
+    },
+    {
+     "nombre": "Injugable",
+     "precio": 3000,
+     "stock": 50,
+     "categorias": [
+      "cara",
+      "danina",
+      "descargable",
+      "grande"
+     ],
+     "img": "https://cdn.discordapp.com/attachments/1119092949880414299/1119106090391568475/injugable.png",
+     "id": "16"
+    },
+    {
+     "nombre": "Demoniaca",
+     "precio": 666,
+     "stock": 666,
+     "categorias": [
+      "barata",
+      "cuatridimensional",
+      "eterea"
+     ],
+     "img": "https://cdn.discordapp.com/attachments/1119092949880414299/1119106786025283654/demoniaca.png",
+     "id": "17"
+    },
+    {
+     "nombre": "Grasosa",
+     "precio": 1500,
+     "stock": 60,
+     "categorias": [
+      "danina",
+      "descargable"
+     ],
+     "img": "https://cdn.discordapp.com/attachments/1119092949880414299/1119107272283537529/grasosa.png",
+     "id": "18"
+    },
+    {
+     "nombre": "Masiva",
+     "precio": 5000,
+     "stock": 2,
+     "categorias": [
+      "cara",
+      "grande"
+     ],
+     "img": "https://cdn.discordapp.com/attachments/1119092949880414299/1119107792192667690/masiva.png",
+     "id": "19"
+    },
+    {
+     "nombre": "Minuscula",
+     "precio": 5,
+     "stock": 1996,
+     "categorias": [
+      "barata",
+      "chica"
+     ],
+     "img": "https://cdn.discordapp.com/attachments/1119092949880414299/1119108960734171136/minuscula.png",
+     "id": "20"
+    },
+    {
+     "nombre": "De Regalo",
+     "precio": 0,
+     "stock": 100,
+     "categorias": [
+      "barata",
+      "agradable"
+     ],
+     "img": "https://cdn.discordapp.com/attachments/1119092949880414299/1119092983497769011/normal.png",
+     "id": "21"
+    },
+    {
+     "nombre": "Arcoiris",
+     "precio": 1100,
+     "stock": 20,
+     "categorias": [
+      "colorida"
+     ],
+     "img": "https://cdn.discordapp.com/attachments/1119092949880414299/1119112049826476072/arcoiris.png",
+     "id": "22"
+    },
+    {
+     "nombre": "Hueca",
+     "precio": 1050,
+     "stock": 90,
+     "categorias": [
+      "agradable",
+      "descargable"
+     ],
+     "img": "https://cdn.discordapp.com/attachments/1119092949880414299/1119112515012530186/hueca.png",
+     "id": "23"
+    },
+    {
+     "nombre": "Nomai",
+     "precio": 1320,
+     "stock": 22,
+     "categorias": [
+      "agradable",
+      "cuatridimensional",
+      "descargable"
+     ],
+     "img": "https://cdn.discordapp.com/attachments/1119092949880414299/1119113574208507974/nomai.png",
+     "id": "24"
+    },
+    {
+     "nombre": "Celeste",
+     "precio": 225,
+     "stock": 202,
+     "categorias": [
+      "barata",
+      "agradable",
+      "descargable",
+      "colorida"
+     ],
+     "img": "https://cdn.discordapp.com/attachments/1119092949880414299/1119115083180679198/celeste.png",
+     "id": "25"
+    },
+    {
+     "nombre": "Suprema",
+     "precio": 9999999999,
+     "stock": 1,
+     "categorias": [
+      "cara",
+      "danina",
+      "eterea"
+     ],
+     "img": "https://cdn.discordapp.com/attachments/1119092949880414299/1119115709591592981/suprema.png",
+     "id": "26"
+    },
+    {
+     "nombre": "Acida",
+     "precio": 1200,
+     "stock": 33,
+     "categorias": [
+      "danina"
+     ],
+     "img": "https://cdn.discordapp.com/attachments/1119092949880414299/1119116205853253662/acida.png",
+     "id": "27"
+    },
+    {
+     "nombre": "Dulce",
+     "precio": 600,
+     "stock": 78,
+     "categorias": [
+      "barata",
+      "agradable"
+     ],
+     "img": "https://cdn.discordapp.com/attachments/1119092949880414299/1119092983497769011/normal.png",
+     "id": "28"
+    },
+    {
+     "nombre": "A",
+     "precio": 1111,
+     "stock": 111,
+     "categorias": [],
+     "img": "https://cdn.discordapp.com/attachments/1119092949880414299/1119116715259854901/a.png",
+     "id": "29"
+    },
+    {
+     "nombre": "B",
+     "precio": 2222,
+     "stock": 222,
+     "categorias": [],
+     "img": "https://cdn.discordapp.com/attachments/1119092949880414299/1119116729222697000/b.png",
+     "id": "30"
+    }
+]

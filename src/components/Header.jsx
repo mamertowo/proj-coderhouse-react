@@ -10,7 +10,7 @@ export const Header = () => {
     const {categorias, loading} = useCategorias();
     return (
         <header>
-            <Navbar expand="lg" bg="dark" data-bs-theme="dark" sticky="top">
+            <Navbar expand="xl" bg="dark" data-bs-theme="dark" sticky="top">
                 <Container>
                     <Navbar.Brand>
                         <Link to="/">PIEDRAS 2</Link>
