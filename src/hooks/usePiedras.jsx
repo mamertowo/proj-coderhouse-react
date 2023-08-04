@@ -8,10 +8,6 @@ export function usePiedras(id) {
 
     useEffect(() => {
         setLoading(true);
-        // fetch("https://648a2b645fa58521cab0f453.mockapi.io/pcjs/piedras")
-        //     .then(res => res.json())
-        //         .then(data => setPiedras(data))
-        //     .finally(() => setLoading(false));
         const piedrasRef = collection(db, "piedras");
         const q = id
             ? query(piedrasRef, where("categorias", "array-contains", id)) //where("stock", ">", 0)

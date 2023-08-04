@@ -29,7 +29,7 @@ export const Header = () => {
                                 })
                             }
                         </Nav> 
-                        <CartWidget /> {/*Arreglar en collapse*/}
+                        <CartWidget />
                     </Navbar.Collapse>
                 </Container>
             </Navbar>

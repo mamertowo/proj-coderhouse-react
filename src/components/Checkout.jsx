@@ -146,15 +146,3 @@ export const Checkout = () => {
         </Container>
     );
 }
-
-// const [values, setValues] = useState({
-//     nombre: '',
-//     apellido: ''
-// });
-
-// const handleValues = (e) => {
-//     setValues({
-//         ...values,
-//         [e.target.name]: e.target.value
-//     });
-// }

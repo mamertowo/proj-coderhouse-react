@@ -8,10 +8,6 @@ export function useCategorias() {
 
     useEffect(() => {
         setLoading(true);
-        // fetch("https://648a2b645fa58521cab0f453.mockapi.io/pcjs/categorias")
-        //     .then(res => res.json())
-        //         .then(data => setCategorias(data))
-        //     .finally(() => setLoading(false));
         const categoriasRef = collection(db, "categorias");
         getDocs(categoriasRef)
             .then(resp => {

@@ -27,19 +27,3 @@ function App() {
 }
 
 export default App
-
-//Add event listener en mount y remove en dismount
-//(post pre entrega 2)
-/*
-func = (event) => {}
-useEffect(() => {
-	addEventListener(func)
-	return () = {
-		removeEventListener(func)
-	}
-}, []);
-
-tambien directo
-<div onClick={func}>
-</div>
-*/
